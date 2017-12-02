@@ -990,97 +990,71 @@ http://www.businessinsider.com/tony-robbins-day-month-year-exercises-2017-7
 https://zapier.com/learn/email-marketing/best-transactional-email-sending-services
 http://blog.ippon.tech/5-laws-every-developer-should-know
 https://www.codepolitan.com/kode-etik-programmer-yang-wajib-kita-ketahui
+https://www.pfsense.org
+https://angularbooks.com
+https://recime.io
+https://web.hypothes.is
+http://documentation.js.org
+https://formidable.com/blog/2017/javascript-power-tools-redux-saga
+https://formidable.com/blog/2017/composition-patterns-in-redux-saga
+https://formidable.com/blog/2017/real-world-redux-saga-patterns
+http://singlepageapplication.com
+https://voicerecordpro.com
+https://www.10xfactory.com
+https://jscomplete.com
+https://github.com/i0natan/nodebestpractices
+https://stackoverflow.blog/2017/11/06/know-enroll-coding-bootcamp
+http://mudabergerak.com
+https://pixelme.me
+https://roadmap.space
+https://www.productboard.com
+https://lewishowes.com
+https://www.alienvault.com
+https://www.diffbot.com
+https://dev.to/kim_hart/5-lessons-my-bootcamp-didnt-teach-me
+https://idkotlin.com
+http://learn.accredible.com/employment-directory
+https://awesomerepos.com
+https://www.invisionapp.com/studio
+https://go2cinema.com
+http://www.vanschneider.com/be-stupid
+http://calnewport.com/books/deep-work
+https://wissenspace.com
+https://www.vubblepop.com
+https://pagedraw.io
+https://learningfuze.com
+http://www.b-star.org
+http://waldobronchart.github.io/ShortcutMapper
+ufraw
+rawtherapee
+darktable
+http://rawspeed.org
+https://datally.google.com
+https://cryptodasher.com
+https://changelly.com
+https://elitedatascience.com/learn-machine-learning
+https://codeascraft.com/2012/05/22/blameless-postmortems
 
 
 
 
-ONETAB
----
 
-https://mhaidarhanif.com/ | M Haidar Hanif | IT Consultant and Full Stack Web Developer
-https://app.mailerlite.com/automation/activity/123003#?status=delayed&page=1&limit=50&search=&date_from=&date_to=&step=0&reason=0&order_by=date&order_direction=DESC | Impact Byte | MailerLite
+https://info.trello.com/embrace-remote-work-ultimate-guide
+https://teletype.atom.io
+https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
+https://coda.io
+https://www.bootkik.com
 
-https://trello.com/b/wZBMMvGJ/development | Development | Trello
-https://airtable.com/tbllXh8WE5kNYHQcQ/viwir9pzE4YeDUjRQ | Registration: Participants - Airtable
-https://impactbyte.slack.com/messages/G6B9ZC6GJ/ | team | Impact Byte Slack
+The List - Jakarta
+by Golden Gate Ventures http://goldengate.vc
+http://eepurl.com/cQqIfP
 
-https://redux.js.org/ | Read Me · Redux
-https://egghead.io/lessons/react-redux-store-methods-getstate-dispatch-and-subscribe | Redux: Store Methods: getState(), dispatch(), and subscribe() from @dan_abramov on @eggheadio
-https://egghead.io/courses/building-react-applications-with-idiomatic-redux | Building React Applications with Idiomatic Redux from @dan_abramov on @eggheadio
+Node.js apps on Firebase Hosting Crash Course 
+https://www.youtube.com/watch?v=LOeioOKUKI8
 
-https://jwt.io/introduction/ | JSON Web Token Introduction - jwt.io
-https://auth0.com/blog/secure-your-react-and-redux-app-with-jwt-authentication/ | Secure Your React and Redux App with JWT Authentication
-https://davidwalsh.name/react-authentication | React Authentication is Easy with Auth0
-https://medium.com/of-all-things-tech-progress/starting-with-authentication-a-tutorial-with-node-js-and-mongodb-25d524ca0359 | Starting with Authentication (A tutorial with Node.js and MongoDB)
-https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46 | Your Node.js authentication tutorial is (probably) wrong
-https://hackernoon.com/role-based-authorization-in-react-c70bb7641db4 | Role based authorization in React – Hacker Noon
-https://github.com/blockstack | Blockstack
+3 Truths to Wake You Up and Give You Purpose 
+https://www.youtube.com/watch?v=ecvS9ArwykA
 
-http://localhost:3000/welcome | React App
-https://cloud.mongodb.com/v2/5a03034ddf9db1445a1d9f80#clusters/connect?clusterId=ImpactByteForum | Clusters | Atlas: MongoDB Atlas
-https://dashboard.heroku.com/apps/impactbyte-forum-api/settings | impactbyte-forum-api · Settings | Heroku
-http://blog.robomongo.org/robomongo-is-robo-3t/ | Robomongo is now Robo 3T, with MongoDB 3.4 support
-https://www.datduh.com/blog/2017/7/26/how-to-connect-to-mongodb-atlas-using-robo-3t-robomongo | Connect to MongoDB Atlas Using Robo 3T (Robomongo) — Datduh!
-http://impactbyte-forum-api.herokuapp.com/ | Application Error
-
-https://www.xmatters.com/resources/reports/4-ways-to-improve-your-devops-testing | 4 Ways to Improve Your DevOps Testing - xMatters Inc
-https://strapi.io/ | Strapi.io - API creation made simple, secure and fast.
-https://gitlab.com/impactbyte/network | Impact Byte / network · GitLab
-https://app.netlify.com/ | Sites
-
-https://daveceddia.com/react-gotchas/ | React Gotchas
-http://joelgriffith.net/top-5-react-gotchas/ | Top 5 React "Gotchas" - joelgriffith.net
-https://reactjs.org/docs/refs-and-the-dom.html | Refs and the DOM - React
-
-https://www.techinasia.com/talk/5-month-guide-learn-code-get-hired | This developer’s 5-month guide to learn code and get hired is all you need
-https://www.irs.gov/pub/irs-pdf/fw8ben.pdf | Form W-8 BEN (Rev. July 2017)
-https://developers.facebook.com/developercircles/lead/apply/ | Developer Circles - Lead Apply
-https://drawings.jvns.ca/permissions/ | Unix permissions · julia's drawings
-https://dns.js.org/ | JS.ORG
-
-https://egghead.io/browse/frameworks/react | Learn React Today from Expert Video Screencast Tutorials
-https://egghead.io/browse/libraries/react-router | Learn React Router Today from Expert Video Screencast Tutorials
-https://egghead.io/browse/libraries/redux | Learn Redux Today from Expert Video Screencast Tutorials
-https://egghead.io/browse/frameworks/react-native | Learn React Native Today from Expert Video Screencast Tutorials
-https://egghead.io/courses/fundamentals-of-react-native-video | Fundamentals of React Native Video from @browniefed on @eggheadio
-
-https://serverless-stack.com/ | Building a Full-Stack App with Serverless and React | Serverless Stack
-https://medium.freecodecamp.org/what-is-technical-debt-and-why-do-most-startups-have-it-9a54458daabf | What is technical debt? And why does almost every startup have it?
-http://scrumnpaper.com/2017/10/18/peran-dalam-tim-scrum/ | Peran dalam Tim Scrum - ScrumnPaper
-https://ardialhaidar.wordpress.com/2015/06/09/dasar-dasar-scrum-dalam-tilil/ | Dasar-dasar Scrum dalam TILIL – Ardialhaidar's Note
-
-http://algorithms.openmymind.net/ | simple algorithms
-http://youexec.com/book-summaries/share/blue-ocean-shift-summary | Blue Ocean Shift Summary — You Exec
-https://blog.discordapp.com/lessons-from-migrating-a-large-codebase-to-react-16-e60e49102aa6 | Lessons from migrating a large codebase to React 16
-https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed | The 100% correct way to structure a React app (or why there’s no such thing)
-https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594 | 8 Key React Component Decisions – freeCodeCamp
-https://medium.com/tandemly/im-breaking-up-with-higher-order-components-44b0df2db052 | I’m Breaking up with Higher Order Components. – tandemly – Medium
-http://nodewebapps.com/ | Node Web Apps – Guides to help you create, deploy, and maintain JavaScript Web Applications.
-https://smartive.ch/ | smartive AG - Zukunftsweisende Webapplikationen für anspruchsvolle Unternehmen
-
-https://yts.gs/movies/a-lego-brickumentary-2015 | A LEGO Brickumentary (2015) Download YIFY movie torrent - YTS
-https://www.educative.io/collection/5164179136708608/5629499534213120?utm_source=newsletter&utm_medium=email&utm_campaign=reactD3v4&utm_content=body | Become a data visualization engineer with React + D3v4
-http://documentation.js.org/ | documentationjs
-https://dev.to/srebalaji/es6-for-beginners-with-example-c7 | ES6 for beginners with example
-https://www.codepolitan.com/panduan-penulisan-artikel | Panduan Penulisan Artikel - CodePolitan.com
-https://manager.linode.com/session/signup?PromotionCode=Changelog2017 | Free Account
-https://www.udacity.com/courses/software-engineering | Software Engineering | Udacity
-https://www.udacity.com/courses/digital-marketing | Digital Marketing | Udacity
-https://www.codepolitan.com/ | CodePolitan - Your Learning Journey to Become a Great Programmer
-https://egghead.io/courses/leverage-new-features-of-react-16 | https://egghead.io/courses/leverage-new-features-of-react-16
-https://btnwtn.com/articles/higher-order-components-for-beginners | Higher-Order Components (HOCs) for Beginners ✴ Brandon Newton
-https://dandenney.com/posts/front-end-dev/building-a-small-pwa-with-preact-and-firebase?utm_content=buffer7f550&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer | Building a Small PWA with Preact and Firebase
-https://www.youtube.com/watch?time_continue=2&v=u3cK4fz1GNg | Introduction to Lore, a Framework for React (SHORT) - YouTube
-https://www.educative.io/collection/page/5191711974227968/5741031244955648/5678053736841216 | Introduction to Flexbox
-https://watchandcode.com/courses/enrolled/60264 | Watch and Code®
-https://daveceddia.com/build-metronome-react/ | Build a Metronome in React
-https://github.com/jakartajs/talks/issues/new | New Issue · jakartajs/talks
-https://joreteg.com/blog/betting-on-the-web?utm_content=bufferc20e8&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer | Betting on the Web
-https://medium.com/@ihsansatriawan/menggunakan-fb-sdk-pada-react-native-b9b8de40a261 | Menggunakan FB-SDK pada React Native – Ihsan Satriawan – Medium
-https://www.facebookblueprint.com/student/home/show_enrollment/43433260# | Blueprint: Growing Your Business on Facebook (Getting Started)
-https://github.com/nygardk/react-share?utm_campaign=Fullstack%2BReact&utm_medium=email&utm_source=Fullstack_React_77 | nygardk/react-share: Easy social media share buttons and share counts
-https://coderbyte.com/video/todo-app-react-part-one | Coderbyte
-https://coderbyte.com/video/todo-app-react-part-two | Coderbyte
-
-
+Do Full Stack Developers Exist? An Intro to Application Stacks
+https://www.youtube.com/watch?v=PgTiU7RiYMk
 
