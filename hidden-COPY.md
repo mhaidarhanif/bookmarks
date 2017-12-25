@@ -1034,18 +1034,122 @@ https://cryptodasher.com
 https://changelly.com
 https://elitedatascience.com/learn-machine-learning
 https://codeascraft.com/2012/05/22/blameless-postmortems
+https://idcloudhost.com
+http://ruangreka.com
+https://eigeradventure.com
+https://www.torch.id LANGSUNGBELI
+https://beeketing.com
+https://messengerkids.com
+http://www.makingstartshere.com
+https://www.sketchbook.com
+https://www.tinkercad.com
+http://jennifersoft.com
+https://minimuseum.com
+http://codeception.com
+http://dataselfie.it
+https://the-cloud-book.com
+http://git-secret.io
+https://genius-quiz.com
+https://statusbrew.com
+https://principles.design
+http://nytimes.github.io/pourover
+https://caddyserver.com
+https://www.9spokes.com
+http://www.lofree.co
+http://donateyourwebsite.com
+https://www.rubypedia.com
+https://inspigo.id
+http://benangel.co/monetise-messenger
+https://react-form.js.org
+http://reactnative.training/workshops-sf-january-25-26.html
+https://pasarpolis.com
+https://nixos.org
+https://nixos.org/nix
+https://tailwindcss.com
+https://servicebot.io
+http://meavietnam.com
+http://numerologist.com/portal/numerology/interpretations-of-the-life-path-numbers
+https://www.buildingbeautifulsouls.com/symbols-meanings/numerology-meanings
+https://www.lauretta.io
+http://parentalk.id
+http://browserbench.org
+http://browserbench.org/Speedometer
+http://startuppatterns.com
+https://nette.org/en
+https://blockchaindemo.io
+https://coindemo.io
+http://www.scrumguides.org
+https://itch.io
+https://godotengine.org
+https://www.makeroid.io
+https://career-resource-center.udacity.com
+https://andimicro.com
+
+
+Haidar: Indonesia Banyak Kok Orang yang Jago Coding
+
+Ketik atau lihat di kolom komentar untuk mention temen-temen yang jago ya
+
+
+
+https://medium.com/swlh/success-factors-of-tech-startups-part-1-the-team-faca5f795038
+https://medium.com/swlh/success-factors-of-tech-startups-part-2-the-idea-67e4bf8adc52
+https://medium.com/swlh/success-factors-of-tech-startups-part-3-resources-b78c85bff2c0
+
+---NETWORK
+
+https://medium.com/the-mission/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+http://nezzmedia.com/tiga-kunci-manajemen-waktu-untuk-remote-worker
+https://degreed.com/yearinreview2017
 
 
 
 
 
+
+HOW TO PROGRAM
+https://www.youtube.com/watch?v=KNjiKbSSlCM
+
+nih kamu ada di detik 5:22 hihi
+https://www.youtube.com/watch?v=3Ln8QDK0bis
+
+"temukan apa kekurangan kita, kalo dibalik, bisa menjadi suatu kelebihan"
+https://www.youtube.com/watch?v=TkTpP1yOPRw
+
+https://www.techinasia.com/jobs/d0ab7689-6ee1-4c95-a7cf-04bc27c3e094
+https://www.techinasia.com/jobs/7a5fbf21-183f-4618-96c3-2be11402d683
+https://www.techinasia.com/jobs/e3a40320-1150-4fea-bc4b-4c4d571ec1b5
+https://www.techinasia.com/jobs/f7dfde65-afbc-407e-92fe-5d1cb904022c
+
+---
+
+- Mindset
+- Expectation
+- Break the dogma
+- UNique Selling Proposition
+https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch
+https://www.techinasia.com/talk/51-ways-acquire-100000-customers-marketing-budget
+http://talenthunt.glints.id/talent-sign-up/software-engineer
+https://employers.glints.id/dashboard/register/company/1
+http://id.startupjobs.asia/id/site/startuplogin
+http://growthsupply.com/the-startup-newsletter
+https://netbasal.com/the-importance-of-abstraction-in-js-ea27e07e996
+https://line.me/en/logo
+https://www.youtube.com/watch?v=gO2uiNA7JJk
+https://gattigaga.com/id/article/redux-in-simple-way
+https://ww2.kqed.org/mindshift/2015/11/23/why-understanding-these-four-types-of-mistakes-can-help-us-learn
+https://ariya.io/2015/07/presenting-without-a-self-introduction
+https://ariya.io/2013/07/encouraging-shorter-tech-talk
+https://www.udemy.com/the-advanced-web-developer-bootcamp/?couponCode=DECAFF3D10
+https://www.rubypedia.com/kategori/javascript 
+http://firstround.com/review/veteran-cto-with-20-years-experience-answers-your-top-startup-building-questions
 https://info.trello.com/embrace-remote-work-ultimate-guide
 https://teletype.atom.io
 https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 https://coda.io
 https://www.bootkik.com
 
-The List - Jakarta
+
 by Golden Gate Ventures http://goldengate.vc
 http://eepurl.com/cQqIfP
 
@@ -1057,4 +1161,23 @@ https://www.youtube.com/watch?v=ecvS9ArwykA
 
 Do Full Stack Developers Exist? An Intro to Application Stacks
 https://www.youtube.com/watch?v=PgTiU7RiYMk
+
+---
+
+https://www.torch.id/collections/aksesoris/products/atlanta-dompet-paspor
+https://www.bukalapak.com/p/olahraga/outdoor/travel-pouch/6bo18q-jual-tas-sepatu-shoe-pack-torch-x7-pelita
+https://www.torch.id/collections/rompi/products/rompi-toricelli-hitam
+https://eigeradventure.com/mountaineering/eiger-digi-yp11524-01.html
+https://eigeradventure.com/mountaineering/eiger-lcd-watch-yp13609.html
+https://eigeradventure.com/mountaineering/eiger-jam-character-4-0-black.html
+https://eigeradventure.com/mountaineering/eiger-mini-solar-flashlight.html
+https://eigeradventure.com/mountaineering/eiger-shoes-boot-pollock-black.html
+https://eigeradventure.com/mountaineering/eiger-torch-pl-901.html
+https://eigeradventure.com/mountaineering/eiger-travel-towel-green-m.html
+https://eigeradventure.com/mountaineering/eiger-vaught-approach-shoes-black-50.html
+
+https://profiles.udacity.com/p/u37512176
+https://www.freecodecamp.org/mhaidarh
+
+
 
