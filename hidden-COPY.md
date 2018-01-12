@@ -1084,37 +1084,222 @@ https://godotengine.org
 https://www.makeroid.io
 https://career-resource-center.udacity.com
 https://andimicro.com
-
-
-Haidar: Indonesia Banyak Kok Orang yang Jago Coding
-
-Ketik atau lihat di kolom komentar untuk mention temen-temen yang jago ya
-
-
-
 https://medium.com/swlh/success-factors-of-tech-startups-part-1-the-team-faca5f795038
 https://medium.com/swlh/success-factors-of-tech-startups-part-2-the-idea-67e4bf8adc52
 https://medium.com/swlh/success-factors-of-tech-startups-part-3-resources-b78c85bff2c0
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
+https://github.com/arialdomartini/Back-End-Developer-Interview-Questions
+http://ego-icons.com
+http://www.webalys.com
+http://www.streamlineicons.com
+http://ux.streamlineicons.com
+http://www.webalys.com/nova
+https://designcode.io
+https://www.rajamobil.com
+https://www.clickbank.com
+http://www.retinad.com
+http://www.sketchcleaner.com
+http://www.textstyl.es
+http://www.sketchconfetti.com
+https://yummygum.com
+https://www.launchgood.com
+https://www.vilfo.com
+https://blog.heroku.com/node-habits
+https://blog.heroku.com/node-habits-2016
+https://blog.heroku.com/node-habits-2017
+http://ipricegroup.com
+https://iprice.co.id
+https://formspree.io
+https://facebook.github.io/yoga
+https://sdras.github.io/array-explorer
+https://newkajabi.com
+https://useproof.com
+https://wellytambunan.gitbooks.io/distributed-system
+http://www.go-scope.com
+https://www.manfrotto.us
+http://fstopgear.com
+http://100daysofx.com
+http://kallaway.io
+https://umaar.com/dev-tips
+https://www.boardofinnovation.com/idea-generator
+https://www.boardofinnovation.com
+http://www.thepalladiumgroup.com
+https://www.enabledemployment.com
+http://www.bizdojo.com
+https://passpod.id
+https://introvertsnetwork.asia
+http://oneoneday.com
+https://www.citizenme.com
+http://www.keyrus.com
+https://donottrack-doc.com
+https://www.glickon.com
+http://project.carrot2.org
+https://subgraph.com
+https://blog.algolia.com/start-your-open-source-career
+http://coderscolony.com
+https://applymagicsauce.com
+https://discovermyprofile.com
+https://concerto5.icar-project.com/new/test/FaceIQ-Overview?MVTid=de846bb
+https://getmosh.io
+https://mosh.org
+http://www.zettamedia.id
+https://www.storial.co
+https://indonesia.girlsintech.org
+http://nulisbuku.com
+http://trivia.id
+https://covera.ai
+https://ubuntubudgie.org
+http://checklist.yingjiehu.com
+http://npmplease.com
+https://chrisshort.net/docker-is-dead
+https://glitch.com
+https://www.manuscript.com
+https://www.fogcreek.com/careers
+https://www.eproc.id
+https://boostnote.io
+http://www.allocacoc.com
+http://designnest.allocacoc.com
+https://www.allocacocshop.com
+https://hashtagworkmode.com
+http://www.isobar.com/global/en/news/isobar-launches-augmented-humanity-isobar-2018-trends-report
+https://www.kickstarter.com/projects/andromium/the-superbook-turn-your-smartphone-into-a-laptop-f
+https://www.sentio.com
+https://www.academind.com/articles/javascript/angular-vs-reactjs-vs-vuejs
+https://www.academind.com
+https://www.udemy.com/googlego/?couponCode=FREE2018
+http://www.dofactory.com/javascript/design-patterns
+http://www.niomic.co.id
+https://one-day-resolutions.codecademy.com
+https://www.gotenna.com
+https://www.imeshyou.com
+https://www.chromestatus.com
+https://anchor.fm
+https://transform.now.sh
+https://temantrader.com
+https://www.dusdusan.com
+https://redux-form.com
+https://react-fns.netlify.com
+http://www.estimapp.com
+https://pesawatkertas.id
+https://proofsrc.com
+https://snappykit.com
+https://bubble.is
+https://cooperpress.com
+http://statuscode.com
+https://www.kredibel.co.id
+http://reversing.id
+https://thefabulous.co
+https://nestjs.com
+https://scal.io
+http://fireloop.io
+https://www.leado.io
+https://www.sourcetoad.com
+https://www.codeanalogies.com
+https://www.cabeau.com
+https://mantasleep.com
+https://midnightsketch.com
+http://www.animaapp.com
+https://timeline.animaapp.com
+https://30secondsofcode.org
+https://studddent.com
+https://www.visme.co/how-to-make-an-infographic
+https://pimcore.com/en
+https://olympia.id
+https://trello.com/dreambig
+http://coderscolony.com
+https://flatpak.org
+https://realfavicongenerator.net
+https://mdbootstrap.com
+https://fezvrasta.github.io/bootstrap-material-design
+https://www.honeybook.com
+
+
+
+https://www.yastengroup.com/7-phase-web-design-process-by-yasten-group
+http://www.aqusagtechnologies.com/the-impact-of-web-design-on-seo-branding-and-more
+
+
+
+
+
+
+awesome
+30 seconds of code
+Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less
+https://30secondsofcode.org
+
+
+7 wejangan desain untuk developer
+https://dev.to/pradeep_io/7-design-lessons-for-a-developer
+
+
+
+Toys Marketplace yang keren udah ada belum ya?
+
++ kurasi katalog buat mainan segala umur: bayi, anak-anak, remaja, dewasa, dll
++ segala tempat: rumah, taman, lapangan, kantor, dll
++ segala ukuran: kantongan, kecil, sedeng, besar, dll
++ segala tipe: plastik, elektronik, kayu, dll
++ segala interaksi: standalone, dengan aplikasi, IoT, dll
++ revenue model dari iklan, cross promotion, atau affiliate marketing
++ bisa post ide mainan juga
+
+ala Kickstarter, Indiegogo, LEGO Ideas, any-commerce-site, tapi khusus mainan
+
+https://www.producthunt.com/search?q=toys
+
+
+
+
+https://recap.id/2017/12/19/kunci-kestabilan-bisnis-sosial-dampak-dan-model-bisnis-harus-saling-terikat/amp/
+
+
+https://glitch.com/~html-5-boilerplate
+https://github.com/i0natan/nodebestpractices
+
+---
+
+https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
+https://medium.freecodecamp.org/whats-boilerplate-and-why-do-we-use-it-let-s-check-out-the-coding-style-guide-ac2b6c814ee7
+https://github.com/jaredpalmer/backpack
+glitch
+https://codesandbox.io
+http://statuscode.com/
+
+https://hackernoon.com/learning-to-code-in-6-months-a-product-managers-journey-b5d09b856f72
+https://shareaholic.com/learn
+
+
+
+
+
+
+
+bagaimana agar bisa terus bersaing?
+https://www.weforum.org/agenda/2017/05/your-boss-is-worried-you-soon-wont-have-the-skills-needed-to-get-a-job
+
+In programmer speak, there’s one big question to answer: when software ate the world, was that a bug or a feature?
+https://medium.com/make-better-software/software-matters-in-the-world-f24d25b255d7
+
+ada all-female co-working spaces: https://hashtagworkmode.com
+
+https://dev.to/grappleshark/the-search-for-its-holy-grail-fostering-devops-collaboration
+
+
+
+https://dgachieve.com/bl-book-opt
+https://brendon.mykajabi.com/p/hph-book-step-1
 
 ---NETWORK
 
+https://codingthesmartway.com/the-2018-roadmap-to-fullstack-web-development
+https://www.weforum.org/agenda/2017/04/how-elon-musk-learns-quicker-and-better-than-anyone-else
+https://glitch.com/react-starter-kit
+
+https://medium.com/paperpillar/tentang-ukuran-pada-desain-ui-bagian-1-b15a1edabdce
 https://medium.com/the-mission/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
 http://nezzmedia.com/tiga-kunci-manajemen-waktu-untuk-remote-worker
 https://degreed.com/yearinreview2017
-
-
-
-
-
-
-HOW TO PROGRAM
-https://www.youtube.com/watch?v=KNjiKbSSlCM
-
-nih kamu ada di detik 5:22 hihi
-https://www.youtube.com/watch?v=3Ln8QDK0bis
-
-"temukan apa kekurangan kita, kalo dibalik, bisa menjadi suatu kelebihan"
-https://www.youtube.com/watch?v=TkTpP1yOPRw
 
 https://www.techinasia.com/jobs/d0ab7689-6ee1-4c95-a7cf-04bc27c3e094
 https://www.techinasia.com/jobs/7a5fbf21-183f-4618-96c3-2be11402d683
@@ -1126,7 +1311,12 @@ https://www.techinasia.com/jobs/f7dfde65-afbc-407e-92fe-5d1cb904022c
 - Mindset
 - Expectation
 - Break the dogma
-- UNique Selling Proposition
+- Unique Selling Proposition (USP) > Minimum Viable Product (MVP)
+https://www.weforum.org/agenda/2017/04/10-steps-for-staying-calm-and-de-stressing
+https://gineersnow.com/community/story/programmers-also-engineers-right
+https://www.success.com/article/15-legendary-quotes-from-successful-entrepreneurs
+https://github.com/AllThingsSmitty/must-watch-css
+https://github.com/AllThingsSmitty/must-watch-javascript
 https://www.codecademy.com/pro/intensive/build-web-apis-from-scratch
 https://www.techinasia.com/talk/51-ways-acquire-100000-customers-marketing-budget
 http://talenthunt.glints.id/talent-sign-up/software-engineer
@@ -1148,7 +1338,9 @@ https://teletype.atom.io
 https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e
 https://coda.io
 https://www.bootkik.com
+https://stackoverflow.blog/2017/12/27/stack-overflow-gives-back-2017
 
+---
 
 by Golden Gate Ventures http://goldengate.vc
 http://eepurl.com/cQqIfP
@@ -1179,5 +1371,6 @@ https://eigeradventure.com/mountaineering/eiger-vaught-approach-shoes-black-50.h
 https://profiles.udacity.com/p/u37512176
 https://www.freecodecamp.org/mhaidarh
 
+https://www.rajamobil.com/dijual-suzuki-karimun-wagon-r-baru-jakarta-1033.htm
 
 
