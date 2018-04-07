@@ -1212,52 +1212,280 @@ https://realfavicongenerator.net
 https://mdbootstrap.com
 https://fezvrasta.github.io/bootstrap-material-design
 https://www.honeybook.com
+http://www.pulaumacan.com
+https://www.talkwalker.com
+https://www.sessionstack.com
+http://www.devopsbookmarks.com
+http://codiad.com
+https://kite.com
+http://www.k2datascience.com
+https://www.mandalomedia.com
+https://jobiness.com
+https://www.prismagraphql.com
+https://www.moviemania.io
+https://reactnavigation.org
+https://appetize.io
+https://jgthms.com/css-in-44-minutes-ebook
+http://footballtabl.es
+https://jgthms.com/minireset.css
+https://jgthms.com/wysiwyg.css
+https://icons8.com
+https://icons8.com/sounds
+https://appsounds.pro
+https://www.keycdn.com
+https://vim.rtorr.com
+https://nurture.ai
+https://www.dotjs.io
+https://brave.com
+https://snapcraft.io
+http://tdd.github.io/moments-away
+https://uappexplorer.com
+https://caxton.herokuapp.com
+https://duckduckhack.com
+https://marmelab.com/comfygure
+https://www.hacker101.com
+https://www.hackerone.com/start-hacking
+https://gitstar-ranking.com
+https://www.wuhub.id
+http://prosesdata.com
+https://www.coworker.com
+https://ibm.github.io/css-gridish
+http://otospector.co.id
+https://kopitani.id
+https://circledoo.com
+https://begin.com
+https://getkeysmart.com
+http://maulasam.id/lakukan-ini-selama-1-tahun-kamu-bisa-berhasil
+https://mouse.org
+https://www.thetileapp.com
+http://solarspell.org
+https://anchor.fm
+https://gophers.id
+https://nevercode.io
+https://appcenter.ms
+https://www.visualstudio.com/app-center
+https://www.bitrise.io
+https://mbasso.github.io/asm-dom
+https://alligator.io
+https://svelte.technology
+https://www.qiscus.com/white-paper
+https://www.ipify.org
+https://www.opendoor.com
+https://bendingspoons.github.io/katana-swift
+https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview
+https://communities.fb.com
+https://www.dataquest.io
+https://www.brompton.com
+https://microsoft.github.io/monaco-editor
+https://medium.freecodecamp.org/introducing-rekit-studio-a-real-ide-for-react-and-redux-development-baf0c99cb542
+http://rekit.js.org
+http://demo.rekit.org
+https://splashthat.com
+https://akaunting.com
+https://simpletoken.org
+https://www.odrive.com
+http://www.2048coins.com
 
 
 
-https://www.yastengroup.com/7-phase-web-design-process-by-yasten-group
-http://www.aqusagtechnologies.com/the-impact-of-web-design-on-seo-branding-and-more
+
+https://github.com/nicolesaidy/awesome-web-design
+https://github.com/petehunt/react-howto
+https://webkul.github.io/micron
+http://www.lifestak.com
+https://dawnlabs.io/alchemy
+https://sweetalert2.github.io/
+https://nerdfonts.com
+http://sankeymatic.com/
+https://kutt.it/
+https://bootstrapstudio.io/
+https://wiki.js.org
+https://requarks.io
+https://nuts.gitbook.com
+https://www.gredu.asia
+https://mith.io
+http://www.socialmention.com
+https://paul.kinlan.me/rise-of-the-meta-platforms
+https://nativescript-vue.org
+https://thegeekpath.com
+https://open-source-quality.github.io
+https://aircall.io
+https://learnetto.com
+https://pressurejs.com
+https://obsproject.com
+https://www.screencastify.com
+https://screencast-o-matic.com
+https://educatecode.com
+https://scrimba.com
+https://sinergiaeducation.com
+https://matmatch.com
+http://www.duapps.com
+https://viewedit.com
+https://www.hyfy.io
+https://getvero.app.link
+https://hutter.io/2016/02/02/make-all-dev-domains-resolve-to-localhost
+http://dot.co.id
+http://voffice.co.id
+https://legalo.id
+https://www.greenschool.org
+http://dbdesigner.net
+https://colab.research.google.com
+https://brandless.com
+https://www.accompany.com
+https://sinergiaeducation.com
+https://www.clipboardfusion.com
+https://www.gotimelinr.com
+https://www.peergrade.io
+https://www.mirroring360.com
+http://www.xn--vi8hiv.ws
+https://undraw.co
+https://evie.undraw.co
+https://www.erlang-solutions.com
+http://roughjs.com
+https://mzucker.github.io/2016/09/20/noteshrink.htm://mzucker.github.io/2016/09/20/noteshrink.html
+http://www.livingorgs.com/blog/2017/6/16/interview-the-funadmentals-of-holacracy
+https://www.plusacumen.org
+http://www.forstok.com
+https://foam.space
+http://www.carryology.com
+https://www.argomining.co
+https://getoutline.org
+https://b8ta.com
+https://replika.ai
+https://www.manifold.co
+https://crowde.co
+https://opensourcefriday.com
+https://primer.github.io
+
+
+
+https://www.youtube.com/watch?v=dO_-4beHAAU
+
+
+
+
+https://makebook.io
+https://levels.io/open
 
 
 
 
 
 
-awesome
-30 seconds of code
-Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less
-https://30secondsofcode.org
+https://opensource.google.com
 
 
-7 wejangan desain untuk developer
-https://dev.to/pradeep_io/7-design-lessons-for-a-developer
-
-
-
-Toys Marketplace yang keren udah ada belum ya?
-
-+ kurasi katalog buat mainan segala umur: bayi, anak-anak, remaja, dewasa, dll
-+ segala tempat: rumah, taman, lapangan, kantor, dll
-+ segala ukuran: kantongan, kecil, sedeng, besar, dll
-+ segala tipe: plastik, elektronik, kayu, dll
-+ segala interaksi: standalone, dengan aplikasi, IoT, dll
-+ revenue model dari iklan, cross promotion, atau affiliate marketing
-+ bisa post ide mainan juga
-
-ala Kickstarter, Indiegogo, LEGO Ideas, any-commerce-site, tapi khusus mainan
-
-https://www.producthunt.com/search?q=toys
+Bedanya BACKEND & FRONTEND programmer, oleh @Vikra Ijas
+https://www.youtube.com/watch?v=NQccBa_1Tq4
 
 
 
 
-https://recap.id/2017/12/19/kunci-kestabilan-bisnis-sosial-dampak-dan-model-bisnis-harus-saling-terikat/amp/
+TeknoEvent
+http://teknoevent.com/KTLw4
+
+https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf
+https://chrome.google.com/webstore/detail/refined-twitter/nlfgmdembofgodcemomfeimamihoknip
+
+https://progapanda.org/2016/12/13/so-you-want-to-be-a-computer-programmer
 
 
+Introducing... Modusin. A simple clone of Medium
+https://modusin.mhaidarhanif.org
+https://modusin.netlify.com
+https://modusin-api.herokuapp.com
+
+Source code:
+https://github.com/modusintech
+
+
+---separator
+
+http://www.azquotes.com/quote/87300
+
+https://www.switchup.org/blog/how-to-make-your-website-more-accessible
+
+
+git tag
+
+Ultimate guides to strive as a beginner professional programmer/developer (1)
+https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248
+Ultimate guides to strive as a beginner professional programmer/developer (2)
+https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
+Ultimate guides to strive as a beginner professional programmer/developer (3)
+https://medium.freecodecamp.org/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d
+
+https://reactjs.org/docs/thinking-in-react.html
+https://github.com/React-Sight/React-Sight
+https://github.com/krasimir/react-in-patterns
+https://redux.js.org/basics/usage-with-react
+
+https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3
+https://dev.to/yos/stateless-authentication-with-json-web-tokens--km3
+https://dev.to/yos/best-practices-for-building-great-api-developer-portals-2f1a
+https://github.com/yosriady/api-development-tools
+
+https://egghead.io/courses/build-a-server-rendered-reactjs-application-with-next-js
+
+There, I created a pull request haha
+https://www.facebook.com/photo.php?fbid=547340818969393&set=a.151568701879942.1073741832.100010804383796&type=3
+
+
+
+
+
+
+
+
+---
+
+Ruang Kreasi Batam: https://ruangkreasi.co
+Coming Soon
+
+Building Bridges Between Augmented Reality and The World
+
+- AI vs AR vs VR
+- Menggunakan AR
+- AR berpotensi
+- Cara kerja AR
+- Penerapan AR
+- Industri AR & VR
+- Developer AR & VR
+
+
+
+
+
+
+
+
+
+
+
+http://bradfrost.com/blog/post/atomic-web-design
+https://earn.com/mhaidarhanif/referral/?a=ku96ypw7x86t859t
+
+http://todomvc.com
+https://developer.mozilla.org/en-US/docs/Learn/Server-side
+http://www.capitalone.io/blog/contrasting-enterprise-nodejs-frameworks
+https://www.meetup.com/Jakarta-Learns-Programming/events/past
+https://www.meetup.com/JakartaJS/events/past
+
+
+
+https://github.com/ryanmcdermott/clean-code-javascript
 https://glitch.com/~html-5-boilerplate
 https://github.com/i0natan/nodebestpractices
 
+https://www.yastengroup.com/7-phase-web-design-process-by-yasten-group
+http://www.aqusagtechnologies.com/the-impact-of-web-design-on-seo-branding-and-more
+https://recap.id/2017/12/19/kunci-kestabilan-bisnis-sosial-dampak-dan-model-bisnis-harus-saling-terikat/amp
 ---
+
+https://chromplex.com/unduh-ebook-pemrograman-android-berbahasa-indonesia-resmi-dari-google
+https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-concepts/content/en/
+https://google-developer-training.gitbooks.io/android-developer-fundamentals-course-practicals/content/en/
+
 
 https://scotch.io/tutorials/how-to-build-a-memory-matching-game-in-javascript
 https://medium.freecodecamp.org/whats-boilerplate-and-why-do-we-use-it-let-s-check-out-the-coding-style-guide-ac2b6c814ee7
@@ -1371,6 +1599,162 @@ https://eigeradventure.com/mountaineering/eiger-vaught-approach-shoes-black-50.h
 https://profiles.udacity.com/p/u37512176
 https://www.freecodecamp.org/mhaidarh
 
-https://www.rajamobil.com/dijual-suzuki-karimun-wagon-r-baru-jakarta-1033.htm
+---
+
+https://vueschool.io
+https://cerebroapp.com
+https://movingtohttps.com
+https://certbot.eff.org
+
+---
+
+https://getdango.com/emoji-and-deep-learning
+https://getdango.com
+https://breakoutlist.com
+https://personalityfactors.com/en
+https://www.fontself.com/
+http://www.colorfonts.wtf/
+http://www.designprinciplesftw.com/
+https://medium.com/the-year-of-the-looking-glass/a-matter-of-principle-4f5e6ad076bb#.e9sylr7h0
+https://medium.com/uxcellence/design-a-better-product-with-product-principles-560e1ca40633#.l3ic1stfm
+https://booking.design/a-matter-of-design-principle-s-57c1e2684b35#.mr81887w2
+https://uxdesign.cc/why-design-principles-shape-stronger-products-ae677bdd831b#.jaw5hhj26
+https://medium.com/@dehfne/aligning-your-team-through-design-principles-a1d39bd1f55e#.40e7xlhxo
+http://airbnb.design/building-a-visual-language/
+http://airbnb.design/designing-for-trust/
+https://material.io/guidelines/#introduction-principles
+https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+https://www.microsoft.com/en-us/design/principles
+https://www.facebook.com/notes/facebook-design/facebook-design-principles/118951047792/
+https://medium.com/salesforce-ux/defining-principles-to-drive-design-decisions-b647b68fb057#.uqwqc6q6p
+http://www.ibm.com/design/language/framework/experience/
+https://channel9.msdn.com/events/MIX/MIX10/CL06
+https://medium.com/@dustin/thanks-for-writing-the-article-julie-8362fd235ae0#.vq33ylhia
+https://people-mozilla.org/~madhava/FDV/
+http://www.bbc.co.uk/gel/philosophy/design-philosophy
+http://www.fueltravel.com/blog/tips-from-lyft-let-your-brand-drive-your-ux-decisions/
+http://blog.foursquare.com/post/93970344578/introducing-the-all-new-foursquare-which-learns
+https://medium.com/@sambrown/designing-the-new-foursquare-8f8788d366f0#.rur5owsa5
+https://medium.com/@suprb/redesigning-pinterest-block-by-block-6040a00d80a3#.quauqrnw2
+https://blog.asana.com/2013/10/design-principles/
+http://blogs.mulesoft.com/dev/api-dev/api-best-practices-series-plan
+https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling
+http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+https://docs.microsoft.com/en-us/azure/best-practices-api-design
+https://mathieu.fenniak.net/the-api-checklist/
+https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5
+https://realm.io/news/best-practices-pain-points-mobile-networking-rest-api-failures/
+https://martinfowler.com/tags/API%20design.html
+
+https://rework.withgoogle.com/guides/hiring-use-structured-interviewing/steps/introduction
+https://rework.withgoogle.com/blog/people-analytics-where-hr-meets-science-at-google
+https://rework.withgoogle.com/blog/the-roofshot-manifesto
+https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team
+https://rework.withgoogle.com/guides/managers-identify-what-makes-a-great-manager/steps/introduction
+
+https://auth0.com/blog/a-brief-history-of-javascript
+https://auth0.com/blog/alternatives-to-native-mobile-app-development
+https://auth0.com/blog/learn-about-inferno-js-build-and-authenticate-an-app
+https://auth0.com/blog/auth0-japanese-localization
+https://auth0.com/blog/extend-slack-with-nodejs
+https://auth0.com/blog/2017-budget-planning
+https://auth0.com/blog/personal-information-security-identity-guide
+
+http://prakhar.me/articles/understanding-rpcs
+http://prakhar.me/articles/understanding-rpcs-partII
+
+http://materik.tumblr.com/post/98324672516/restful-json-api-design-part-1
+http://materik.tumblr.com/post/99806761591/restful-json-api-design-part-2
+http://materik.tumblr.com/post/101938795476/restful-json-api-design-part-3
+
+---
+
+...performance
+https://m.alphasights.com/web-performance-for-dummies-cc0a888cef2b
+
+...tips
+https://www.sitepoint.com/10-tips-to-become-a-better-node-developer
+
+...push notifications
+The History of Push Notifications https://pushcrew.com/blog/history-push-notifications
+
+...encryption
+Codemoji
+https://codemoji.org
+
+...VPN
+ZenMate
+https://zenmate.com
+
+...Online Privacy
+Teaching Privacy http://teachingprivacy.org
+Online http://slides.com/kelimutu/online-privacy
+https://github.com/LibraryFreedom/training-materials
+
+...single sign on (SSO)
+
+...VPS
+
+...webpack
+http://survivejs.com/webpack/introduction/
+
+...react
+http://survivejs.com/react/introduction
+
+https://www.pantone.com/images/pages/21297/pantone-color-of-the-year-2017-greenery-15-0343-press-release.jpg
+https://www.pantone.com/press-release-pantone-unveils-color-of-the-year-2017-pantone-15-0343-greenery
+
+------
+
+JavaScripture | The word on JavaScript | Interactive JavaScript API Reference
+Marp | Markdown presentation writer, powered by Electron
+Algosaurus | A graphic guide to algorithms
+VisuAlgo | Visualising data structures and algorithms through animation
+HyperTerm
+
+sketchup
+iclip
+keyup
+tuck
+finderminder
+Sip Color Picker
+unarchiver
+hues
+crosshairs
+Flashlight | Spotlight's missing plugin system
+https://gist.github.com/saetia/1623487
+https://gist.github.com/zenorocha/7159780
+http://xip.io/
+https://www.powerdns.com/
+php pear
+papaya
+
+https://forwardjs.com/
+http://www.dn2a.org/
+http://deeplearning4j.org/
+https://docs.google.com/spreadsheets/d/15GJwpjE6PpBRFgoJ9eU1VdHkF2mUVNXpHnpS7zY6avc/edit#gid=0
+https://www.quora.com/What-are-main-difference-between-full-stack-developer-and-backend-developer-when-considering-only-the-backend-side/answer/Quincy-Larson
+http://go.flatironschool.com/hubfs/FS_student_to_startup_ebook.pdf?t=1471372443294
+https://ga-core.s3.amazonaws.com/production/uploads/program/course_catalog/128/WDI_CourseCurriculum_v2.0.pdf
+https://nektony.com/
+http://www.baqend.com/
+
+https://zeit.co/now
+https://zeit.chat
+https://sageproject.com
+http://www.selfpublishingx.com/how-to-write-a-book-in-30-days
+http://www.vibe.air.global/
+https://codility.com
+https://www.whatcareerisrightforme.com/
+https://launchschool.com/
+https://coursereport.com/signup
+https://coursereport.com/claim-page
+http://fabric8.io/
+http://www.skilledup.com/insights/how-companies-forge-a-relationship-with-a-bootcamp
+http://report.turing.io/
+https://hackbrightacademy.com/blog/hackbright-grads-jobs/
+https://www.coderfactoryacademy.edu.au/career-outcomes
+https://doubleyourfreelancing.com/free-pricing-course/
+http://coschedule.com/blog/wp-content/uploads/write-emotional-headlines-power-words-copy.pdf
 
 
