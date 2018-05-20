@@ -5,8 +5,43 @@ https://app.mailerlite.com/automation/activity/124785#?status=delayed&page=1&lim
 https://airtable.com/tblSha3LHU4uMPLM5/viwPL2koHTIVr2er5 | Registration: Partners - Airtable
 https://airtable.com/tbljwc4Xgs6qcPCqM/viw3rnTlfuxXbgnss | Impact Byte Network: Partners - Airtable
 
-http://plasma.guide/#further-reading | Plasma design system · GitBook
-https://dl2.pushbulletusercontent.com/N1P7qufgO0Vw8DGv2qB2BdSchelUwuMh/Screenshot_20180401-191506.png | Screenshot_20180401-191506.png (1080×1920)
+https://network.impactbyte.com/certificate/abdurrahman-fadhil
+https://network.impactbyte.com/certificate/ali-kurniawan
+https://network.impactbyte.com/certificate/fuad-baskara-priyambada
+https://network.impactbyte.com/certificate/kien-doan
+https://network.impactbyte.com/certificate/muhammad-najib-kusumonegoro
+https://network.impactbyte.com/certificate/rizal-zulkarnain
+https://network.impactbyte.com/certificate/herdanu-yudistira-putra
+https://network.impactbyte.com/certificate/miftah-faris
+https://network.impactbyte.com/certificate/stefanus-dody-kristianto-wicaksono
+https://network.impactbyte.com/certificate/yanuar-yudhistira
+https://network.impactbyte.com/certificate/dei-gratia-radrigov-rahawarin
+https://network.impactbyte.com/certificate/dedek-julianto
+
+https://epicevents.io/my-app/-LB_0inKXGcsAmxGHfjx/-LB_0ze3yXewDvAfYDMZ?utm_campaign=2018-05-03&utm_source=email&utm_medium=prospect | Event | Epic Events
+https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB | Using IndexedDB - Web APIs | MDN
+http://dexie.org/ | Dexie.js - Minimalistic IndexedDB Wrapper
+https://localforage.github.io/localForage/ | localForage
+https://pouchdb.com/ | PouchDB, the JavaScript Database that Syncs!
+https://www.hypershop.com/collections/hyperdrive/products/hyperdrive-solo-hub-for-usb-c-macbook-pc-devices | HyperDrive SOLO Hub for USB-C MacBook, PC & USB-C Devices - HyperShop.com
+https://www.udemy.com/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/ | The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert | Udemy
+https://www.udemy.com/hands-on-introduction-to-database-design-with-mysql/ | Hands-On Introduction To Database Design With MySQL | Udemy
+https://www.udemy.com/introduction-to-databases-and-sql-querying/?siteID=JVFxdTr9V80-lhTMrIthDRc0HPMjxVhESA&LSNPUBID=JVFxdTr9V80 | Introduction to Databases and SQL Querying | Udemy
+https://www.udemy.com/sql-the-hitch-hikers-guide-to-writing-sql-queries/?siteID=JVFxdTr9V80-sY0VhaFl9WSfViJOgtJLCQ&LSNPUBID=JVFxdTr9V80 | SQL : The Hitch Hikers Guide To Writing SQL Queries | Udemy
+https://www.udemy.com/advanced-tsql-querying-using-sql-2014/?siteID=JVFxdTr9V80-LY4RJpFgbXDb3ZDaM2Zhzw&LSNPUBID=JVFxdTr9V80 | Advanced Databases and SQL Querying | Udemy
+https://transferwise.com/gb/borderless/ | Free Multi-Currency Account - TransferWise
+https://nomadlist.com/fire?ref=producthunt | How early can you retire if you move to another place?
+http://www.java67.com/2018/02/5-free-database-and-sql-query-courses-programmers.html#ixzz5BF15pkCJ | 5 Free Database and SQL Query Courses for Programmers to Learn Online | Java67
+https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · GitBook
+https://javascript.info/ | The Modern Javascript Tutorial
+https://blog.codeanalogies.com/2018/03/30/javascripts-apply-call-and-bind-explained-by-hosting-a-cookout/ | JavaScript’s Apply, Call and Bind Explained By Hosting A Cookout – CodeAnalogies Blog
+https://www.codeanalogies.com/ | CodeAnalogies | CSS,JavaScript Tutorials
+https://blog.codeanalogies.com/2018/03/30/javascripts-apply-call-and-bind-explained-by-hosting-a-cookout/ | JavaScript’s Apply, Call and Bind Explained By Hosting A Cookout – CodeAnalogies Blog
+https://learn.fullstackacademy.com/slack?utm_campaign=Slack&utm_source=Course%20Report&utm_medium=Social | Fullstack Academy
+https://coding-challenge.lighthouselabs.ca/start?utm_source=coursereport&utm_medium=newsletter | Lighthouse Labs - 21 Day Challenge - Get Started!
+https://www.coursereport.com/blog/5-javascript-books-you-should-add-to-your-reading-list | 5 JavaScript Books You Should Add to Your Reading List
+https://effortless-serverless.com/serverless/claudia/migration/2018/03/29/serverless-migration/ | From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless – Effortless Serverless
+
 https://codingthesmartway.com/rest-vs-graphql/ | REST vs. GraphQL - CodingTheSmartWay.com
 https://www.udemy.com/the-complete-web-developer-in-2018/?couponCode=DBJUNIOR281 | The Complete Web Developer in 2018: Zero to Mastery | Udemy
 https://www.artofmanliness.com/2018/03/21/fall-asleep-fast/ | How to Fall Asleep Fast - In Less Than 2 Minutes | The Art of Manliness

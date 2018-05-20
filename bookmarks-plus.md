@@ -1356,23 +1356,152 @@ https://www.manifold.co
 https://crowde.co
 https://opensourcefriday.com
 https://primer.github.io
-
-
-
-https://www.youtube.com/watch?v=dO_-4beHAAU
-
-
-
-
+https://github.com/ten
+http://plasma.guide
+http://click.pocoo.org
+https://www.next.xyz
+https://vuepress.vuejs.org
+https://lumnify.com
+http://www.worldcoders.org
+https://www.tellform.com
+https://www.po.et
+https://www.jackdb.com
+https://www.jetbrains.com/research/python-developers-survey-2017
+https://zellwk.com/blog/dom-traversals
+https://zellwk.com
+https://learnjavascript.today
+https://jsroadmap.com
+https://snwh.org
+https://rclone.org
+https://datamaps.co
+https://jongold.github.io/figma-js
+https://quicktype.io
+https://aksaradinusantara.com/
+https://react-cosmos.github.io
+http://bots.duolingo.com
+https://lab.github.com
+https://gumroad.com/l/FKbd/50off
+https://compositor.io/lab
+https://compositor.io/iso
+https://clubhouse.io
+https://stackoverflow.com/teams
+https://www.remembear.com
+https://astevic.com/pastebox
+https://clipy-app.com
+https://pasteapp.me
+https://makewebcomics.com
+http://en.theroboboproject.com
+https://riccardoscalco.github.io/textures
+https://unsplash.com/developers
+https://atarivcs.com
+https://frontend.center
+https://netlify-cms-react-starter.netlify.com
+https://www.netlifycms.org
+https://hyperstatic.netlify.com
+https://bitsrc.io
+https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011
+https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905
+https://go.startupcamp.com/idea-camp-lp
+http://www.cocreate.id
+https://buttercup.pw
+https://www.outofofficehours.com
+https://spec.fm
+https://framer.com
+https://designlife.fm
+https://www.getfeedback.com
+https://jmblog.github.io/color-themes-for-google-code-prettify
+https://www.benchmarkemail.com
+https://scotch.io/tutorials/web-scraping-scotch-the-node-way
+http://evergreen.surge.sh
+https://www.saturdaykids.com
+https://www.scaleapi.com
+https://lightningdesignsystem.com
+https://www.designsystems.com
+http://htmldog.com
+https://flukeout.github.io
+https://www.moonlightwork.com
+https://www.sunsed.com
+https://lobe.ai
+https://openrepeater.com
+https://caster.io
+https://caster.io/courses/advanced-react-native
+https://fivebooks.com/best-books/programming-computer-science-ana-bell
+https://get.app
+https://medium.freecodecamp.org/a-comprehensive-guide-to-react-js-in-2018-ba8bb6975597
+https://www.simform.com/react-native-ecosystem-backend-database-best-libraries
+https://www.simform.com
+https://dzone.com/storage/assets/5911393-dzone-guidetojava-volumeiv.pdf
+https://greetbot.io/
+https://reqres.in
+https://restdb.io
+https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin
+https://medium.freecodecamp.org/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847
+https://medium.com/@akbarsahata21/deploy-server-https-dengan-express-js-dan-lets-encrypt-e57d99d1cb21
+https://www.troyhunt.com/everything-you-ever-wanted-to-know
+https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76
+https://medium.com/@morgannegagne/google-maps-with-react-951c12b723ad
+https://medium.freecodecamp.org/the-absolute-beginners-guide-to-learning-web-development-in-2018-d87ba925549b
+https://blog.expo.io/developing-a-react-native-app-with-expo-cf6566732311
+https://dev.to/kttravers/how-to-work-with-developers---a-guide-for-non-developers-35hk
+https://railsware.com/blog/2018/04/27/holacracy-in-action-how-each-railswarian-can-influence-company-strategy
 https://makebook.io
 https://levels.io/open
-
-
-
-
-
-
 https://opensource.google.com
+
+
+
+
+
+---
+
+The State of Coding Bootcamps in 2018
+https://www.linkedin.com/pulse/state-coding-bootcamps-2018-jay-wengrow
+
+Solidifying what you learn – kentcdodds
+https://blog.kentcdodds.com/solidifying-what-you-learn-6650258c84be
+
+Stack Overflow Developer Survey 2018
+https://insights.stackoverflow.com/survey/2018
+
+Stack Overflow Developer Survey 2017
+https://insights.stackoverflow.com/survey/2017
+
+The State of Developer Ecosystem 2017 - Infographic | JetBrains
+https://www.jetbrains.com/research/devecosystem-2017
+
+"How Developers Use Databases Today" View Report - DataGrip
+https://www.jetbrains.com/datagrip/how-developers-use-databases-today
+
+Creating Usability with Motion: The UX in Motion Manifesto
+https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+
+Quokka - Live Scratchpad for JavaScript in your editor
+https://quokkajs.com
+
+Fun Fun Function - YouTube
+https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
+
+Modern Frontend Developer in 2018
+https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+
+Modern Backend Developer in 2018
+https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+
+Examples of everything new in ECMAScript 2016, 2017, and 2018
+https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Bedanya BACKEND & FRONTEND programmer, oleh @Vikra Ijas
@@ -1434,23 +1563,6 @@ https://www.facebook.com/photo.php?fbid=547340818969393&set=a.151568701879942.10
 
 
 
-
-
-
----
-
-Ruang Kreasi Batam: https://ruangkreasi.co
-Coming Soon
-
-Building Bridges Between Augmented Reality and The World
-
-- AI vs AR vs VR
-- Menggunakan AR
-- AR berpotensi
-- Cara kerja AR
-- Penerapan AR
-- Industri AR & VR
-- Developer AR & VR
 
 
 
